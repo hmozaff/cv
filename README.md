@@ -7,53 +7,45 @@
 <p align="center">
 Dual PhDs in Mechanical Engineering (Control & Dynamics) & Engineering Science (Robotics)  
 <br>
-Robotics • State Estimation • Sensor Fusion • Motion Planning • AV/ADAS • AI for Autonomous Systems
+Robotics • State Estimation • Sensor Fusion • Motion Planning • AV/ADAS • AI
 </p>
 
 ---
 
+# 📄 Curriculum Vitae (CV)
+
+The latest full version of my **Academic & Industry CV** will be available here shortly.  
+A downloadable PDF will be added to this page.
+
+---
+
 ## 🎓 Academic Background
-- Ph.D. in Mechanical Engineering (Control & Dynamics)  
-- Ph.D. in Engineering Science (Robotics)  
-- Research in nonlinear estimation, sensor fusion, motion planning, and autonomous systems  
-- Experience with LiDAR–IMU–Camera fusion using EKF/UKF/CKF  
-- Modeling and simulation of dynamic systems and autonomous robots  
+- Dual PhDs in Mechanical Engineering & Robotics  
+- Research in autonomous systems, state estimation, sensor fusion  
+- Focus on delay-aware EKF/UKF/CKF and multi-sensor systems  
+- Advanced modeling and simulation of robotic systems  
 
 ---
 
-## 🧠 Core Expertise
+## 🏭 Industry Expertise
+- Robotics state estimation and autonomous perception  
+- LiDAR–IMU–Camera fusion for AV/ADAS  
+- MPC-based trajectory planning  
+- Reinforcement learning for navigation and behavior modeling  
+- Real-time C++/ROS2 development for robotics  
+
+---
+
+## 🧠 Core Skills
 - **Estimation:** EKF, UKF, CKF, SLAM  
-- **Sensor Fusion:** LiDAR + IMU + Camera integration  
-- **Motion Planning:** RRT*, CHOMP, TrajOpt, MPC  
-- **Control & Robotics:** Nonlinear control, MPC, RL-based policies  
-- **Software:** C++ (17/20), Python, ROS2, MATLAB/Simulink  
-- **AI:** TensorFlow, PyTorch, RL algorithms  
-
----
-
-## 📝 Research & Publications
-- Delay-aware filtering for nonlinear robotic systems  
-- Lead-measurement transformation for EKF/UKF/CKF  
-- Driver behavior modeling and human-centered autonomy  
-- Robust perception systems for AV/ADAS platforms  
-
----
-
-## 🏭 Industry Applications
-- Real-time multi-sensor fusion pipelines for robotics  
-- AV/ADAS trajectory planning and prediction  
-- Reinforcement learning for navigation and decision-making  
-- Autonomous system validation and simulation  
-
----
-
-## 📄 Curriculum Vitae (CV)
-📌 **CV will be added here soon as a PDF download link.**
+- **Fusion:** LiDAR + IMU + Camera integration  
+- **Planning:** RRT*, CHOMP, TrajOpt, MPC  
+- **Software:** C++, Python, ROS2, MATLAB  
+- **AI:** PyTorch, TensorFlow, RL  
 
 ---
 
 ## 📬 Contact
-- 📧 Email: **hmozaff@siue.edu**  
-- 🔗 LinkedIn: **https://www.linkedin.com/in/hamed-mozaffari-ba60202b5/**  
-- 🐙 GitHub: **https://github.com/hmozaff**  
-- 🌐 Website: **https://hmozaff.github.io**  
+- Email: **hmozaff@siue.edu**  
+- LinkedIn: **https://www.linkedin.com/in/hamed-mozaffari-ba60202b5/**  
+- GitHub: **https://github.com/hmozaff**  
